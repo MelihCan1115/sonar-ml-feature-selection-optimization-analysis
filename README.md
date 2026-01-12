@@ -1,6 +1,7 @@
-![sonar-ml-feature-selection-optimization-analysis-review](https://github.com/user-attachments/assets/61c0609f-09a3-4370-8a98-cc807c240bde)
 English [EN]
 # Meta-Heuristic Feature Selection and Machine Learning Optimization for SONAR Signal Classification
+
+![sonar-ml-feature-selection-optimization-analysis-review](https://github.com/user-attachments/assets/61c0609f-09a3-4370-8a98-cc807c240bde)
 
 ## Abstract
 
@@ -50,6 +51,7 @@ Selected features were evaluated using multiple machine learning classifiers inc
 | ACO       | 16/60            | 73.3%          | 87.3% (avg)   | Various    |
 | GA        | 21/60            | 65.0%          | 77.78% (avg)       | Random Forest |
 | PSO       | 30/60            | 50.0%          | 76.98% (avg)            | Various    |
+
 
 ## Conclusion
 
