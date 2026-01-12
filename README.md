@@ -68,7 +68,7 @@ To run this notebook locally or on Google Colab:
 ## Access Links
 
 - **Dataset Source**: [Kaggle - SONAR Rock vs Mine Prediction](https://www.kaggle.com/code/shamkumar1307/sonar-rock-vs-mine-prediction)
-- **Google Colab Notebook**: [Access Notebook](https://colab.research.google.com/drive/16ufssC)
+- **Google Colab Notebook**: [Access Notebook](https://colab.research.google.com/drive/1azOs39m6OWtPX3pDxYO8jpTv0jh5kA4d?usp=sharing)
 
 ## Ethical and Academic Disclosure
 
@@ -158,7 +158,7 @@ Bu not defterini yerel olarak veya Google Colab'da çalıştırmak için:
 ## Erişim Bağlantıları
 
 - **Veri Kümesi Kaynağı**: [Kaggle - SONAR Kaya ve Maden Tahmini](https://www.kaggle.com/code/shamkumar1307/sonar-rock-vs-mine-prediction)
-- **Google Colab Not Defteri**: [Not Defterine Erişin](https://colab.research.google.com/drive/16ufssC)
+- **Google Colab Not Defteri**: [Not Defterine Erişin](https://colab.research.google.com/drive/1azOs39m6OWtPX3pDxYO8jpTv0jh5kA4d?usp=sharing)
 
 ## Etik ve Akademik Açıklama
 
