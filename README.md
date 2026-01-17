@@ -2,6 +2,8 @@ English [EN]
 # Meta-Heuristic Feature Selection and Machine Learning Optimization for SONAR Signal Classification
 
 ![sonar-ml-feature-selection-optimization-analysis-review](https://github.com/user-attachments/assets/61c0609f-09a3-4370-8a98-cc807c240bde)
+Fig. 1. Overview of the system SONAR. The figure was generated using Google Gemini for illustrative purposes. [EN]
+Şekil 1. SONAR sistemine genel bakış. Şekil, açıklayıcı amaçlarla Google Gemini kullanılarak oluşturulmuştur. [TR]
 
 ## Abstract
 
