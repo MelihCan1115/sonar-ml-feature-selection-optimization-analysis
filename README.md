@@ -9,7 +9,7 @@ English [EN]
 </p>
 
 <p align="center">
-  <strong>Şekil 1.</strong> Siber tehdit metin sınıflandırma sistemine genel bakış. 
+  <strong>Şekil 1.</strong> SONAR sistemine genel bakış.
   <em>(Şekil, açıklayıcı amaçlarla Google Gemini kullanılarak oluşturulmuştur.)</em> [TR]
 </p>
 
